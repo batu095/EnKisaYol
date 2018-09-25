@@ -1,0 +1,3 @@
+Bu projenin amacı belirli sayıda düğüm noktası girilerek(max:400) bu düğümlerin oluşturduğu en kısa yolun bulunması amaçlanmıştır.
+Graphics.h kütüphanesi kullanılarak geliştirilen bu projede her düğüm bir koordinata sahiptir. Bu koordinatlar üzerinden komşuluk
+matrisi bulunmuştur. Projede en kısa yol bulma işlemi Prim Algoritması kullanılarak sağlanmıştır.
